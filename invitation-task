@@ -1,13 +1,8 @@
-فروشگاه کوچکی را با استفاده از api  های آدرس  https://fakestoreapi.com/docs  طراحی کنید(توضیح:از هر url ای که برای انجام پروژه نیاز است استفاده کنید)
-
-فروشگاه شما شامل موارد زیر باشد:
-
-1-صفحه login  داشته باشیم
-
-2-navbar: شامل یک لوگو  و add to cart باشد . .( تعداد آیتم های اد شده و خلاصه ای از توضیحات داده شده در add to cart قابل مشاهده باشد)
-
-3-body:تمام محصولات به صورت pagination  لیست شود با کلیک روی هر محصول به صفحه مختص آن محصول رفته و جزئیات آن نمایش داده شود.
-
-برای ui  از این تمپلیت استفاده کنید
-
- لینک تمپلیت:https://templatemo.com/tm-571-hexashop#google_vignett
+1 . create a store with this API's : https://fakestoreapi.com/docs (use every API you think need)
+2 . store includes:
+2.1 . login page (use axios)
+2.2 . Navbar with (Add to card) button
+2.3 . clicked on Add to Card button and shows selected Items
+3 . body :
+3.1 . every page includes 5 item and pagination with infinite scroll.
+4 . use Bootstrap or material ui 
